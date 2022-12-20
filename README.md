@@ -45,15 +45,14 @@
 [FSI MEGA](https://redhat.turtl.co/story/financial-services/page/1?percmp=7013a00000388uFAAQ)
 
 ### Products
+Drone
 
 Batteries
 
 Satellite
 
-Drone
+Invisible Servers
 
 Global Loan/Load Balancing
-
-Invisible Servers
 
 Omniscient (Legal and Financial)
