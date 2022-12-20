@@ -52,8 +52,8 @@ Satellite
 
 Drone
 
-Global Loan Balancing
+Global Loan/Load Balancing
 
 Invisible Servers
 
-Omniscient Legal and Financial management
+Omniscient (Legal and Financial)
