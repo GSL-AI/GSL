@@ -49,3 +49,11 @@
 Batteries
 
 Satellite
+
+Drone
+
+Global Loan Balancing
+
+Invisible Servers
+
+Omniscient Legal and Financial management
