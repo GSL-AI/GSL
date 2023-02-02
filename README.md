@@ -1,6 +1,6 @@
 ### Design
 
-[MUI Theme](https://mui.com/store/items/soft-ui-pro-dashboard/)
+[MUI Theme](https://mui.com/store/items/devias-kit-pro/)
 
 ### Learning
 
