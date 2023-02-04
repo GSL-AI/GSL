@@ -45,7 +45,7 @@
 [FSI MEGA](https://redhat.turtl.co/story/financial-services/page/1?percmp=7013a00000388uFAAQ)
 
 ### Products
-Drone
+Drones
 
 Batteries
 
@@ -56,3 +56,7 @@ Invisible Servers
 Global Loan/Load Balancing
 
 Omniscient (Legal and Financial)
+
+H-a-a-S
+
+Flashlabor & IDW's
