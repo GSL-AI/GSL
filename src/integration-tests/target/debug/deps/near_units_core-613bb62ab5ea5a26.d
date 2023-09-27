@@ -1,0 +1,9 @@
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Lawyer/GSL/GSL/src/integration-tests/target/debug/deps/near_units_core-613bb62ab5ea5a26.rmeta: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Lawyer/GSL/GSL/src/integration-tests/target/debug/deps/near_units_core-613bb62ab5ea5a26.d: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs:

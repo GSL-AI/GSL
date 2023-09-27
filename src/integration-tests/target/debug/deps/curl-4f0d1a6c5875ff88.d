@@ -1,0 +1,17 @@
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Lawyer/GSL/GSL/src/integration-tests/target/debug/deps/curl-4f0d1a6c5875ff88.rmeta: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/error.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/version.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/mod.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/form.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/handle.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/handler.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/list.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/windows.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/multi.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/panic.rs
+
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Lawyer/GSL/GSL/src/integration-tests/target/debug/deps/curl-4f0d1a6c5875ff88.d: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/error.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/version.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/mod.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/form.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/handle.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/handler.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/list.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/windows.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/multi.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/panic.rs
+
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/lib.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/error.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/version.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/mod.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/form.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/handle.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/handler.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/list.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/easy/windows.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/multi.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/curl-0.4.44/src/panic.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.4.44
