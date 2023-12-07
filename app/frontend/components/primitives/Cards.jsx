@@ -1,4 +1,4 @@
-import styles from '../app/app.module.css';
+import styles from '../contracts/app.module.css';
 
 export const DocsCard = () => {
   return (
