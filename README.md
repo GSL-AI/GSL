@@ -1,6 +1,8 @@
-# 🦁 Golden Smoking Lion (GSL) - Mindful AI Integration 🧠💡
+# Golden Smoking Lion (GSL) - Mindful AI Integration
 
 Welcome to GSL, where we are redefining the relationship between humans and technology through mindful AI integration. Our mission is to provide innovative solutions that enhance well-being, promote mindfulness, and empower users to thrive in the digital age.
+
+[GSL](https://gsl.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
 
 ## Getting Started 🚀
 
