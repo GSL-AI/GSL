@@ -4,31 +4,31 @@ Welcome to GSL, where we are redefining the relationship between humans and tech
 
 [GSL](https://gsl.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
 
-## Getting Started 🚀
+## Getting Started 
 
 To explore GSL's offerings and unleash the power of mindful tech, visit our website: [https://www.gsltech.com](https://www.gsltech.com)
 
-## Features 🌟
+## Features 
 
-- **🔓 Open-Source LLM Model:** GSL's Lion Language Model powers our AI solutions, fostering meditative reflection and hyper-autocatalytic cycles of automation.
+- ** Open-Source LLM Model:** GSL's Lion Language Model powers our AI solutions, fostering meditative reflection and hyper-autocatalytic cycles of automation.
   
-- **🖥️ Hardware Solutions:** Immerse yourself in our range of cutting-edge hardware, from AR Headsets to Tablet-like Hard Wallets for cryptocurrency.
+- ** Hardware Solutions:** Immerse yourself in our range of cutting-edge hardware, from AR Headsets to Tablet-like Hard Wallets for cryptocurrency.
 
-- **⚡ Flashlabor Service:** Swiftly trigger and manage Intelligent Digital Workers for rapid, on-demand task completion.
+- ** Flashlabor Service:** Swiftly trigger and manage Intelligent Digital Workers for rapid, on-demand task completion.
 
-## Installation 🛠️
+## Installation
 
 GSL products are designed for easy integration into your digital ecosystem. For a smooth experience, refer to individual product documentation for detailed installation steps.
 
-## Usage 📘
+## Usage
 
 Check out our enlightening [documentation](https://docs.gsltech.com) for comprehensive information on using GSL products and services to their fullest potential.
 
-## Contributing 🤝
+## Contributing
 
 We welcome contributions with open arms! If you have innovative ideas, encounter any bugs, or want to contribute code, take a peek at our [contribution guidelines](CONTRIBUTING.md).
 
-## Support 🆘
+## Support
 
 For support, assistance, or inquiries, feel free to reach out to our dedicated support team at support@gsltech.com.
 
