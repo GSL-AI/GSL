@@ -10,11 +10,11 @@ To explore GSL's offerings and unleash the power of mindful tech, visit our webs
 
 ## Features 
 
-- ** Open-Source LLM Model:** GSL's Lion Language Model powers our AI solutions, fostering meditative reflection and hyper-autocatalytic cycles of automation.
+- **Open-Source LLM Model:** GSL's Lion Language Model powers our AI solutions, fostering meditative reflection and hyper-autocatalytic cycles of automation.
   
-- ** Hardware Solutions:** Immerse yourself in our range of cutting-edge hardware, from AR Headsets to Tablet-like Hard Wallets for cryptocurrency.
+- **Hardware Solutions:** Immerse yourself in our range of cutting-edge hardware, from AR Headsets to Tablet-like Hard Wallets for cryptocurrency.
 
-- ** Flashlabor Service:** Swiftly trigger and manage Intelligent Digital Workers for rapid, on-demand task completion.
+- **Flashlabor Service:** Swiftly trigger and manage Intelligent Digital Workers for rapid, on-demand task completion.
 
 ## Installation
 
